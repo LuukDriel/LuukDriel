@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hoi, ik ben Luuk Driel
 
-<!--
-**LuukDriel/LuukDriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welkom op mijn GitHub-profiel!  
+Ik ben een eerstejaars MBO Software Developer student met interesse in programmeren, technologie en het bouwen van toffe projecten.
 
-Here are some ideas to get you started:
+## 🚀 Over mij
+- 🎓 Eerstejaars student Software Development (MBO)
+- 💻 Leer graag nieuwe programmeertalen en tools
+- 🌱 Momenteel leer ik de basis van HTML, CSS, JavaScript, php.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Vaardigheden (tot nu toe)
+- HTML & CSS
+- JavaScript
+- php
+- Git & GitHub
+
+Bedankt voor het bezoeken van mijn profiel!
