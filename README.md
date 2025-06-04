@@ -6,7 +6,7 @@ Ik ben een eerstejaars MBO Software Developer student met interesse in programme
 ## 🚀 Over mij
 - 🎓 Eerstejaars student Software Development (MBO)
 - 💻 Leer graag nieuwe programmeertalen en tools
-- 🌱 Momenteel leer ik de basis van HTML, CSS, JavaScript, php.
+- 🌱 Momenteel leer ik HTML, CSS, JavaScript, php.
 
 ## 🛠️ Vaardigheden (tot nu toe)
 - HTML & CSS
